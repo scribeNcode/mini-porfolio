@@ -20,3 +20,17 @@ ul{
     list-style: none;
 }
 
+/* hero section */
+.hero-section{
+    /* background-color: red; */
+    font-size: 1.5rem;
+    padding: 5rem;
+    text-align: center;
+}
+
+.hero-section p{
+    color: #aaafb5;
+    font-size: small;
+    margin-top: 1rem;
+}
+
