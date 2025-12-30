@@ -34,3 +34,63 @@ ul{
     margin-top: 1rem;
 }
 
+
+/* about-me-section */
+.about-me-section{
+    display: flex;
+    
+}
+
+.projects-section{
+    width: 20vw;
+    background-color: green;
+    border: 2px solid black;
+}
+
+.work-experience-section{
+    width: 50vw;
+    background-color: blue;
+    border: 2px solid black;
+}
+
+.education-section{
+    width: 30vw;
+    background-color: red;
+    border: 1px solid black;
+}
+
+
+.project-title h2, .pro-divs p{
+    padding: 1rem;
+    border: 1px solid black;
+}
+
+#sub-topic{
+    border: 0;
+    font-size: small;
+    display: block;
+    margin-top: 1.5rem;
+    /* background-color: blueviolet; */
+}
+
+.wide-height{
+    padding: 4rem;
+    border: 1px solid black;
+}
+
+.wide-height p{
+    border: 0;
+padding: 0;
+margin-left: -3rem;
+margin-top: -3rem;
+
+}
+/* .review-section{
+    margin-top: 2rem;
+    background-color: red;
+} */
+
+main{
+    width: 90%;
+    margin: 0 auto;
+}
